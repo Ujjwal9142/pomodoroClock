@@ -1,0 +1,34 @@
+.pomoClock {
+  font-size: 6em;
+}
+
+.break_message,
+.work_message,
+.initial_message h5 {
+  font-family: "Nunito";
+  font-size: 0.5em;
+  min-height: 1.3em;
+  margin-bottom: 0.3em;
+}
+
+.timer h5 {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 100;
+}
+
+.initial_message input {
+  height: 32px;
+  width: 200px;
+  min-width: 60px;
+  margin: 0px 40px;
+}
+
+.start_butn {
+  font-family: "Nunito";
+  background-color: #eabf9f;
+  color: #1e212d;
+  padding: 8px 20px;
+  font-size: 15px;
+  font-weight: 600;
+  border: none;
+}
